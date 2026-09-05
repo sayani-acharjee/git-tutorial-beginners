@@ -6,4 +6,4 @@ The best ways are:
 - code
 - repeat
 
-Thank you!
+Thank You!
